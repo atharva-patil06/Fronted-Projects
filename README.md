@@ -1,7 +1,7 @@
-# Fronted-Projects
+# Fronted-Project
 # Basic HTML Website
 
-This is a simple static website built using HTML as a learning project.
+This is a simple static website built using HTML as a learning project. 
 
 ## Purpose
 To understand basic web structure and deploy a static site using GitHub Pages.
